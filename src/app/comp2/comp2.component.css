@@ -1,0 +1,254 @@
+*{
+    background-color: white;
+}
+.sample{
+    margin-left: 50px;
+    position: relative;
+    width: 375px;
+    height: 1549px;
+}
+
+.demo{
+    margin-left: 400px;
+    position: relative;
+    width: 375px;   
+    height: 1549px;
+}
+.time{
+    position: absolute;
+     height: 18px;
+     left: 21.33px;
+     right: 299.67px;
+     top: 14px;
+     font-family: 'SF Pro Text';
+     font-size: 17px;
+     line-height: 18px;
+     font-weight: bold;
+ }
+ .connections{
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    top: 15px;
+    left: 293px;
+ }
+ .profile{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    left: 124px;
+    top: 76px;
+ }
+ .jane{
+    position: absolute;
+width: 92px;
+height: 40px;
+left: 142px;
+top: 236px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 40px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.0015em;
+
+color: #000000;
+ }
+ .ca{
+    position: absolute;
+width: 150px;
+height: 15px;
+left: 121px;
+top: 292px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+text-transform: uppercase;
+
+color: #000000;
+ }
+ .btn{
+    position: absolute;
+width: 343px;
+height: 52px;
+left: 16px;
+top: 339px;
+background-color: black;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+text-transform: uppercase;
+border: 2px solid #000000;
+border-radius: 6px;    
+ }
+ .btn button{
+    width: 120px;
+    font-weight: bold;
+    position: absolute;
+    left: 36.53%;
+    right: 36.94%;
+    top: 36.54%;
+    bottom: 34.62%;
+    background-color: #000000;
+    color: #fff;
+ }
+ .msg{
+    position: absolute;
+    width: 343px;
+    height: 52px;
+    left: 16px;
+    top: 407px;
+    background-color: #fff;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border: 3px solid #000000;
+    border-radius: 6px;    
+ }  
+ .msg button{
+    width: 120px;
+    font-weight: bold;
+    position: absolute;
+    left: 34%;
+    right: 36.94%;
+    top: 36.54%;
+    bottom: 34.62%;
+    background-color: #fff;
+    color: #000000;
+    border: 0px;
+ }
+ .img1{
+    position: absolute;
+    width: 167px;
+    height: 220px;
+    left: 16px;
+    top: 491px;
+ }
+ .img2{
+    position: absolute;
+    width: 167px;
+    height: 310px;
+    left: 192px;
+    top: 491px;
+ }
+ .img3{
+    position: absolute;
+    width: 167px;
+    height: 310px;
+    left: 16px;
+    top: 721px;
+ }
+ .img4{
+    position: absolute;
+    width: 167px;
+    height: 310px;
+    left: 192px;
+    top: 811px; 
+ }
+ .img5{
+    position: absolute;
+    width: 167px;
+    height: 310px;
+    left: 16px;
+    top: 1040px;
+ }
+ .img6{
+    position: absolute;
+    width: 167px;
+    height: 220px;
+    left: 192px;
+    top: 1130px;
+ }
+ .btn3{
+    position: absolute;
+    width: 343px;
+    height: 52px;
+    left: 16px;
+    top: 1382px;  
+    background-color: #fff;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border: 3px solid #000000;
+    border-radius: 6px;      
+ }
+ .btn3 button{
+    width: 120px;
+    font-weight: bold;
+    position: absolute;
+    left: 34%;
+    right: 36.94%;
+    top: 36.54%;
+    bottom: 34.62%;
+    background-color: #fff;
+    color: #000000;
+    border: 0px;
+ }
+ .footer{
+    display: flex;
+    position: absolute;
+   width: 375px;
+   height: 83px;
+   top: 1466px;
+   background: #FFFFFF;
+    box-shadow: 0px -0.5px 0px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(27.1828px);
+ }
+ .home{
+    position: absolute;
+    left: 2.93%;
+    right: 86.4%;
+    top: 10.84%;
+    bottom: 40.96%;
+ }
+ .search{
+    position: absolute;
+    left: 21.87%;
+    right: 67.47%;
+    top: 10.84%;
+    bottom: 40.96%;
+ }
+ .insta{
+    position: absolute;
+    left: 40.8%;
+    right: 40.53%;
+    top: 10.84%;
+    bottom: 40.96%;
+ }
+ .comment{
+    position: absolute;
+    left: 67.73%;
+    right: 21.6%;
+    top: 10.84%;
+    bottom: 40.96%;
+ }
+ .person{
+    position: absolute;
+    left: 86.4%;
+    right: 2.93%;
+    top: 10.84%;
+    bottom: 40.96%;
+ }
+ .shape{
+    position: absolute;
+    left: 32%;
+    right: 32%;
+    top: 84.34%;
+    bottom: 9.64%;
+
+    background: #000000;
+    border-radius: 10px;
+ }
